@@ -37,6 +37,9 @@ China stands out as the country with the highest amount of debt, totaling approx
 Timor-Leste has the lowest amount of principal repayments, with a repayment amount of 825,000 USD. This could suggest a lower level of debt or a different debt management strategy compared to other countries.
 Overall, the analysis underscores the varying debt levels and repayment strategies among different countries, providing a foundation for further exploration into the factors driving these differences.
 
+## Project Notebook
+You can view the complete project notebook on DataCamp Datalab by [Clicking here](https://www.datacamp.com/datalab/w/5840b2ea-2936-4e37-b1d1-f8f9a666578b/edit)
+
 ![closing_image](Thank_you.jpg)
 
 
